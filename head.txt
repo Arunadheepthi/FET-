@@ -1,0 +1,18 @@
+<head>
+   <title>CSS TRANSITION </title>
+   <style>
+        .button{
+             width:100px;
+             height:100px;
+             background-color: orange;
+             transition: width 1s ease;
+         }
+         >button:hover{
+                width:500px;
+         }
+   </style>
+             
+</head>
+<body>
+
+
